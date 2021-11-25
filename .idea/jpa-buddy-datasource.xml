@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="33a82f4a-33e5-4918-ad57-678b7c8888c8" name="scrapper2" url="jdbc:mysql://localhost/mydb?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+    <data-source-infos>
+      <data-source-info id="33a82f4a-33e5-4918-ad57-678b7c8888c8" persistence-unit-name="Default" />
+    </data-source-infos>
+  </component>
+</project>
